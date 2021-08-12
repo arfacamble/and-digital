@@ -1,7 +1,7 @@
 {
-  "logoUrl": "https://www.cookielaw.org/wp-content/uploads/2019/12/800px-google_497x180.png",
-  "jobTitle": "Junior Full Stack Developer",
-  "companyName": "Google",
+  "logoUrl": "logo.jpeg",
+  "jobTitle": "Junior Developer",
+  "companyName": "AND Digital",
   "navTabs": {
     "cover": {
       "id": "cover",
@@ -43,12 +43,6 @@
       "id": "hobbies",
       "title": "Hobbies",
       "iconName": "fingerprint",
-      "current": false
-    },
-    "bonus": {
-      "id": "bonus",
-      "title": "Bonus",
-      "iconName": "all_inclusive",
       "current": false
     }
   },
@@ -312,30 +306,6 @@
     }
   },
   "competencies": {
-    "html": {
-      "id": "html",
-      "title": "HTML",
-      "imgUrl": "https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png",
-      "text": "I am confident and competent working in HTML and extended versions such as .html.erb files in rails or in the context of templating in Vue or React."
-    },
-    "css": {
-      "id": "css",
-      "title": "CSS",
-      "imgUrl": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png",
-      "text": "I understand how to use plain CSS, and have experience using libraries and frameworks such as bootstrap and tailwind. I have also enjoyed using the SCSS file format."
-    },
-    "js": {
-      "id": "js",
-      "title": "JavaScript",
-      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png",
-      "text": "I am trained in ES6 and familiar with older syntax. I have worked in both Vue and React. However, I am also comfortable manipulating the DOM directly where necessary, as you can see with the expanding divs in the experience tab."
-    },
-    "responsive": {
-      "id": "responsive",
-      "title": "Responsive Design",
-      "imgUrl": "https://brolik.com/blog/wp-content/uploads/2013/05/BRO_ResponsiveDesign_Main2.png",
-      "text": "An area in which I still have room to improve and look forward to learning best practices, but I have designed this application site to adapt to different screen sizes."
-    },
     "ruby": {
       "id": "ruby",
       "title": "Ruby",
@@ -348,11 +318,11 @@
       "imgUrl": "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png",
       "text": "Similar to Ruby, while I have enjoyed working with Rails I expect to work in other frameworks and to that end I have worked to understand the principles of an MVC architecture and the concepts involved in passing information in props."
     },
-    "TDD": {
-      "id": "TDD",
-      "title": "TDD",
-      "imgUrl": "https://cbabhusal.files.wordpress.com/2015/12/812ab30c5723956adcf8c1bbaf23e471143e1934.png",
-      "text": "While not an expert in TDD, I have experience using packages such as RSPEC for unit and model testing and Capybara for in browser end-to-end testing. You can see an example linked on my github landing page. I look forward to learning more on this in a more practical context in my first role."
+    "vueJS": {
+      "id": "vueJS",
+      "title": "VueJS",
+      "imgUrl": "https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/Vue-logo-1.png",
+      "text": "I have self-educated in Vue in recent months and have made sites including this application and a questionnaire that linked to a PHP/Laravel backend."
     },
     "SQL": {
       "id": "SQL",
@@ -360,17 +330,11 @@
       "imgUrl": "https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postgresql.png",
       "text": "After covering SQL at the bootcamp, I have built upon my knowledge further with a set of exercises linkked on my github landing page. I am comfortable both using SQL directly or in using an ORM such as ActiveRecord. I appreciate there are often inefficiencies in database calls when using an ORM, and I attempt to use techniques such as eager loading where possible."
     },
-    "reactJS": {
-      "id": "reactJS",
-      "title": "ReactJS",
-      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png",
-      "text": "As a personal project I have made a few SPAs in React since leaving the bootcamp. The most notable (although not the prettiest) is the minesweeper app you can find in the projects tab."
-    },
-    "vueJS": {
-      "id": "vueJS",
-      "title": "VueJS",
-      "imgUrl": "https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/Vue-logo-1.png",
-      "text": "I have self-educated in Vue in recent months and have made sites including this application and a questionnaire that linked to a PHP/Laravel backend."
+    "TDD": {
+      "id": "TDD",
+      "title": "TDD",
+      "imgUrl": "https://cbabhusal.files.wordpress.com/2015/12/812ab30c5723956adcf8c1bbaf23e471143e1934.png",
+      "text": "While not an expert in TDD, I have experience using packages such as RSPEC for unit and model testing and Capybara for in browser end-to-end testing. You can see an example linked on my github landing page. I look forward to learning more on this in a more practical context in my first role."
     }
   }
 }
