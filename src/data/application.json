@@ -47,10 +47,9 @@
     }
   },
   "cover": [
-    "Over several years I demonstrated my ability to thrive under pressure and nurture working relationships as a teacher. My success as a teacher was dependent on reliability and consistency in both meeting and setting expectations, teamwork and clear communication with students and colleagues, and excellent time management",
-    "I wanted to keep learning new skills and having always had a passion for problem solving, whether in Maths Olympiads or Philosophical Logic, I decided to retrain as a developer.",
+    "Over several years I demonstrated my ability to thrive under pressure and nurture working relationships as a teacher. My success as a teacher was dependent on reliability and consistency in both meeting and setting expectations, teamwork and clear communication with students and colleagues, and excellent time management. Wanting to keep learning new skills and having always had a passion for problem solving, whether in Maths Olympiads or Philosophical Logic, I decided to retrain as a developer.",
     "I excelled and enjoyed myself on the le Wagon bootcamp, and have been invited back to help the next cohorts as a teaching assistant and a lecturer. Since the bootcamp, I have deepened my understanding of the content covered through helping other students and have stretched myself with mini-projects on further content such as SQL, testing and React.",
-    "In my first developer job, I am hoping to find a role where I will be under pressure to deliver from day one, but where I will also have a collaborative team and senior colleagues who I can learn with and from."
+    "In my first developer job, I am hoping to find a role where I will be under pressure to deliver from day one, but where I will also have a collaborative team and senior colleagues who I can learn with and from. A consultancy environment such as AND Digital, where I will be required to learn new technologies on the fly while delivering to challenging deadlines is very attractive and I hope to be given the opportunity to rise to the challenge."
   ],
   "experience": {
     "lewagon": {
@@ -287,22 +286,27 @@
     "passion": {
       "id": "passion",
       "title": "Passion",
-      "text": "Since starting the bootcamp I have been excited at the prospect of learning more about programming each day. I look forward to the challenge of finding robust and flexible solutions to challenging problems"
+      "text": "Since starting the bootcamp I have been excited at the prospect of learning more about programming each day. I look forward to the challenge of finding robust and flexible solutions to challenging problems and contributing to tech delivering on its promise to improving lives."
+    },
+    "community": {
+      "id": "community",
+      "title": "Community",
+      "text": "It would be a great bonus for me to work at a company with an existing commitment and infrastructure to contribute in their local community. With my background in teaching, I would be enthusiastic about helping to share tech skills with young people particularly."
+    },
+    "ambition": {
+      "id": "ambition",
+      "title": "Ambition",
+      "text": "It appeals to me that throughout the early careers page there is an emphasis on the mutual benefit for the business and employeee of personal ambition, self-improvement and professional development. While confident in my potential as a developer and my ability given my experience level, I know that I understand only the tiniest fraction of the subject. I intend to keep up my pace of learning, collaborating with others at my level and learning from those more experienced."
+    },
+    "teamwork": {
+      "id": "teamwork",
+      "title": "Teamwork",
+      "text": "As a teacher it was important to build a rapport and team ethic quickly with new classes. I would look forward to working in different teams in a project-based setting and am confident my communication skills, reliability and consistency would help me to be successful."
     },
     "innovation": {
       "id": "innovation",
       "title": "Innovation",
       "text": "In approaching any problem I would rather spend more time planning a comprehensive and elegant solution, for example using the principles of DDD, than execute the first thing that comes to mind and then debugging until it works... for the time being."
-    },
-    "accountability": {
-      "id": "accountability",
-      "title": "Accountability",
-      "text": "As a teacher I was responsible at any given time for the maths education of around 130 students, while managing the concerns of parents, department heads and senior leadership around that. I appreciate the need to be proactive in action and communication with all relevant stakeholders."
-    },
-    "humility": {
-      "id": "humility",
-      "title": "Humility",
-      "text": "While confident in my potential as a developer and my ability given my experience level, I know that I understand only the tiniest fraction of the subject. I intend to keep up my pace of learning, collaborating with others at my level and learning from those more experienced."
     }
   },
   "competencies": {
